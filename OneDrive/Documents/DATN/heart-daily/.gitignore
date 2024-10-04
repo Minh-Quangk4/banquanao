@@ -8,6 +8,11 @@
 /Music/
 /Pictures/
 /Videos/
-/NTUSER.DAT
+/NTUSER.DAT*
 /ntuser.*
 /vendor/
+/node_modules/
+.bash_history
+.gitconfig
+.vscode/
+*.lnk
