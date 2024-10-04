@@ -21,3 +21,14 @@ yarn-error.log
 /.zed
 package-lock.json
 composer.lock
+# Bỏ qua các tệp hệ thống của Windows
+AppData/
+NTUSER.DAT*
+Desktop.ini
+Thumbs.db
+*.lnk
+
+# Bỏ qua các tệp OneDrive
+*.sync
+*.sync-conflict*
+*.one
